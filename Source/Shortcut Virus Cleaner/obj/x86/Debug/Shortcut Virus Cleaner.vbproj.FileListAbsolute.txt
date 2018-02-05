@@ -1,0 +1,33 @@
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.exe
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.pdb
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.xml
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.Form1.resources
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.Resources.resources
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.vbproj.GenerateResource.Cache
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.exe
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.xml
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.pdb
+I:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.About.resources
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.exe
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.xml
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.pdb
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.exe
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.pdb
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.xml
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.About.resources
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.Form1.resources
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.Resources.resources
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.exe
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.xml
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.pdb
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.exe
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.pdb
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\bin\Debug\Shortcut Virus Cleaner.xml
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.About.resources
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.Form1.resources
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut_Virus_Cleaner.Resources.resources
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.vbproj.GenerateResource.Cache
+E:\Bssam's\My Works\Shortcut Virus Cleaner\Shortcut Virus Cleaner\obj\x86\Debug\Shortcut Virus Cleaner.vbprojResolveAssemblyReference.cache
